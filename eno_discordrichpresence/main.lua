@@ -25,5 +25,5 @@ Citizen.CreateThread(function()
 end)
 
 --[[
-    By Eno#0435
+    By 'Eno#0435
 ]]
