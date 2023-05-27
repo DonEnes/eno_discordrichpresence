@@ -1,7 +1,7 @@
 fx_version 'adamant'
 games { 'gta5' }
 
-author 'Eno#0435'
+author 'Eno#0003'
 description 'A German Discord Rich Presence Script'
 
 client_scripts {
