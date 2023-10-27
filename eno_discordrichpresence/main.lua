@@ -25,5 +25,5 @@ Citizen.CreateThread(function()
 end)
 
 --[[
-    By Eno#0003
+    By enogh
 ]]
