@@ -20,7 +20,7 @@ Citizen.CreateThread(function()
         SetDiscordRichPresenceAction(0, "Discord", "https://discord.gg/435")
         SetDiscordRichPresenceAction(1, "Verbinden", "https://cfx.re/join/WHATEVER")
 
-        SetRichPresence(playerCount.." Spieler in der nähe | ID: "..id) -- Name: "..name.." (Lasse den IC Namen anzeigen)
+        SetRichPresence(playerCount.." Spieler in der nähe | ID: "..id) -- Name: "..name.." (Lasse den Steam Namen anzeigen)
     end
 end)
 
