@@ -1,9 +1,8 @@
 fx_version 'adamant'
 games { 'gta5' }
 
-author 'enogh'
-description 'German Discord Rich Presence Script'
+author 'Eno'
+description 'Discord Rich Presence Script / coded by Eno'
 
-client_scripts {
-    'main.lua'
-}
+client_scripts 'client.lua'
+server_scriots 'server.lua
